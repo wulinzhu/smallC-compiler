@@ -1,0 +1,7 @@
+file			description
+def.h:			definition of function in IR code generating and MIPS code generating
+symbol.h:		definition of symbol table and its function
+smallc.y:		bison file
+smallc.lex:		flex file
+report.pdf:		project report
+
